@@ -16,6 +16,5 @@ Acessar a pasta [web/] da aplicação no repositório e executar os seguintes co
 - bower install
 
 ## Execução
-- Acessar a pasta raiz da aplicação no repositório e executar os seguintes comandos:
-- Execute o comando: nodemon index.js
+- Executar o arquivo bin/start-node.bat; e
 - Acessar a app no navegador pela URL http://localhost:3000

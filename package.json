@@ -1,7 +1,7 @@
 {
-  "name": "devmedia-rambook",
+  "name": "Mini_Rede_Social",
   "version": "1.0.0",
-  "description": "RAMBook Rede Social Minima",
+  "description": "Mini Rede Social",
   "main": "index.js",
   "dependencies": {
     "body-parser": "^1.14.1",
@@ -12,11 +12,5 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Gustavo Gomes",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ggcrjdev/devmedia-rambook"
   }
 }

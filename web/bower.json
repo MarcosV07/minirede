@@ -1,9 +1,9 @@
 {
-  "name": "devmedia-rambook-web",
+  "name": "Mini Rede Social",
   "authors": [
-    "gustavo.gomes <gustavo.gomesc@gmail.com>"
+    ""
   ],
-  "description": "Modulo web do RAMBook",
+  "description": "Mini Rede Social",
   "main": "",
   "moduleType": [
     "node"
